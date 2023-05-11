@@ -1,0 +1,15 @@
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.csproj.AssemblyReference.cache
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.MainForm.resources
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.Properties.Resources.resources
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.csproj.GenerateResource.cache
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.csproj.CoreCompileInputs.cache
+C:\Users\Yash1\source\repos\Knots\Knots\bin\Debug\Knots.exe.config
+C:\Users\Yash1\source\repos\Knots\Knots\bin\Debug\Knots.exe
+C:\Users\Yash1\source\repos\Knots\Knots\bin\Debug\Knots.pdb
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.exe
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.pdb
+C:\Users\Yash1\source\repos\Knots\Knots\bin\Debug\Knots.exe.manifest
+C:\Users\Yash1\source\repos\Knots\Knots\bin\Debug\Knots.application
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.exe.manifest
+C:\Users\Yash1\source\repos\Knots\Knots\obj\Debug\Knots.application
